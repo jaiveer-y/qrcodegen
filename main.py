@@ -5,9 +5,9 @@
 # ⁡⁢⁢⁢​‌‍‌<--𝗜𝗺𝗽𝗼𝗿𝘁𝘀--> ​⁡
 
 
-import pyqrcode;
-from pyzbar.pyzbar import decode;
-from PIL import Image;
+import pyqrcode
+from pyzbar.pyzbar import decode
+from PIL import Image
 
 
 # this is the input which takes the value and returns it into the qr variable.
